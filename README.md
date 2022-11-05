@@ -3,6 +3,9 @@ GwenTheWelshGal/GwenTheWelshGal is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
+![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats-transparent/output/generated/languages.svg)
+
 Hi, I'm Gwen!
 
 I spend most of my time gaming (mostly Star Trek Online, Grand Theft Auto Online, and World of Warships), though when I'm not doing that, I'm either writing fanfiction or doing things in Python.
