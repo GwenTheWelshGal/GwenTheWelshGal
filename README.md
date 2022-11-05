@@ -3,8 +3,8 @@ GwenTheWelshGal/GwenTheWelshGal is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats/master/generated/languages.svg)
 
 Hi, I'm Gwen!
 
