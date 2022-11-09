@@ -15,6 +15,6 @@ And by things in Python, I mean Twitter bots. I've made exactly one so far, whic
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GwenTheWelshGal)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats-1/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/GwenTheWelshGal/github-stats-1/master/generated/languages.svg)
 
